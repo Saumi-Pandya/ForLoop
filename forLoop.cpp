@@ -5,10 +5,10 @@ for (int i = 1; i <= x; i++) {
 	cout<"Hi there"<<endl;
 }
 
-int y = 10;
+int y = 20;
 
 while (y) {
 	y--;
 }
 
-int z = 7;
+int z = 10;
