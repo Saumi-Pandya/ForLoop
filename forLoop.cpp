@@ -10,3 +10,5 @@ int y = 10;
 while (y) {
 	y--;
 }
+
+int z = 7;
