@@ -5,13 +5,13 @@ for (int i = 1; i <= t; i++) {
 	cout<"Hi there"<<endl;
 }
 
-int y = 20;
+int y = 10;
 
 while (y) {
 	y--;
 }
 
-int z = 10;
+int z = 5;
 
 if (y > z) {
 	cout<<"y is greate than x";
