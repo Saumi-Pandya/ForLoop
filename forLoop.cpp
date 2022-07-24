@@ -12,3 +12,7 @@ while (y) {
 }
 
 int z = 10;
+
+if (y > z) {
+	cout<<"y is greate than x";
+}
